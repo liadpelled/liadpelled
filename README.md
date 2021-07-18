@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @liadpelled
+- 👀 I’m interested in Python development, Machine & Deep Learning!
+- 🌱 I’m currently learning Deep Learning using Tensorflow and working on my Python skills.
+- 📫 You can reach me via email at liad435@gmail.com :)
